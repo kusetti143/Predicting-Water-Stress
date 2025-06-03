@@ -82,16 +82,13 @@ The models have been evaluated on test data with the following metrics:
 - Expansion to other crop types
 - Improved visualization of prediction results
 
-## License
-
-[MIT License](LICENSE)
 
 ## Contributors
 
-- Your Name
-- Other Contributors
+- K.Balaji
+
 
 ## Acknowledgments
 
-- Mention any datasets, research papers, or other resources that contributed to this project
+- Used Kaggle Datasets for this project
 
