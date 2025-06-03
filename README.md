@@ -26,7 +26,7 @@ This system uses machine learning and deep learning models to predict water stre
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/Predicting-Water-Stress.git
+   git clone https://github.com/kusetti143/Predicting-Water-Stress
    cd Predicting-Water-Stress
    ```
 
